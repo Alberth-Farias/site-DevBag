@@ -24,8 +24,8 @@ DevBag é uma aplicação multifuncional que combina ferramentas úteis em um ú
 
 ## 🛠️ Como Usar
 
-  Acesse o site: https://aruberth.github.io/site-DevBag/
+  Acesse o site: https://alberth-farias.github.io/site-DevBag/
 
   ou
 
- Clone o repositorio `https://github.com/Aruberth/site-DevBag.git` e execute o arquivo **index.html**
+ Clone o repositorio `https://github.com/Alberth-Farias/site-DevBag.git` e execute o arquivo **index.html**
